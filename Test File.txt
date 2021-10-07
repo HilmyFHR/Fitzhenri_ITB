@@ -1,7 +1,0 @@
-TEST BUAT FILE
-- HTML
-- CSS
-- SQL
-- C
-- JAVA
-- Python
